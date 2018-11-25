@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cool.seckill.redis:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RedisSecKill.war">
+      <element id="artifact" artifact-name="cool.seckill.redis:war exploded" />
+    </root>
+  </artifact>
+</component>
